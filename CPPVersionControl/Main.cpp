@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World " << endl;
+	//Print Some Text
+	cout << "Welcome " << endl << endl;
 	InitializeStats();
 	system("pause");
 }
