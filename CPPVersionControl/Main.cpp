@@ -5,7 +5,7 @@ using namespace std;
 void Greet()
 {
 	//Print Some Text
-	cout << "Welcome Panjo " << endl << endl;
+	cout << " Welcome Toti mou " << endl << endl;
 }
 
 int main()
