@@ -2,10 +2,15 @@
 #include "Feature.h"
 using namespace std;
 
-int main()
+void Greet()
 {
 	//Print Some Text
 	cout << "Welcome " << endl << endl;
+}
+
+int main()
+{
+	Greet();
 	InitializeStats();
 	system("pause");
 }
